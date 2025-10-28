@@ -93,6 +93,9 @@ Blockchain Data Storage and Access
 
 3.2 Workflow
 
+<img width="648" height="1117" alt="image" src="https://github.com/user-attachments/assets/3a363a04-bbe0-4ca1-953c-7f0ce9cb5aa4" />
+
+
 Acquire (quantum) medical image
 
 Preprocess and extract features
@@ -166,6 +169,9 @@ The proof-of-concept (proco.py) successfully executed the end-to-end workflow.
 A simulated X-ray was processed, classified, and securely stored on a blockchain block.
 
 The system proved the feasibility of combining AI-driven diagnostics with blockchain verification.
+
+<img width="834" height="442" alt="image" src="https://github.com/user-attachments/assets/41079606-7997-4c9e-8e62-12e4b53014d9" />
+
 
 6. Conclusion and Future Scope
 
